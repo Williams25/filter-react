@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  flex-direction: columns;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.container {
+  width: 1200px;
+}
+.pupular-movies {
+  width: 100%;
+  height: 100%;
+  /* display: grid; */
+  /* grid-template-columns: repeat(auto-fit, minmax(168px, 1fr)); */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 2rem;
+  transition: all 1s;
+}
