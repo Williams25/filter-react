@@ -1,0 +1,220 @@
+{
+  "animes": [
+    {
+      "id": 1,
+      "name": "86 eighty six",
+      "urlImage": "img/86-eighty-six.jpg",
+      "category": [
+        "action",
+        "drama",
+        "sci-fi"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Attack on titan",
+      "urlImage": "img/attack-on-titan.jpg",
+      "category": [
+        "adventure",
+        "fantasy",
+        "shounen",
+        "action",
+        "drama",
+        "thriller",
+        "post-apocalyptic"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Black clover",
+      "urlImage": "img/black-clover.jpg",
+      "category": [
+        "shounen",
+        "magic",
+        "fantasy",
+        "adventure",
+        "action",
+        "shonen",
+        "comedy",
+        "manga"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Demon slayer kimetsu no yaiba",
+      "urlImage": "img/demon-slayer-kimetsu-no-yaiba.jpg",
+      "category": [
+        "shonen",
+        "action",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fairy tail",
+      "urlImage": "img/fairytail.jpg",
+      "category": [
+        "action",
+        "shonen",
+        "magic",
+        "fantasy",
+        "comedy"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Haikyu",
+      "urlImage": "img/haikyu.jpg",
+      "category": [
+        "sports",
+        "shonen"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Hunter x Hunter",
+      "urlImage": "img/hunter-x-hunter.jpg",
+      "category": [
+        "shonen",
+        "action"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Jujutsu kaisen",
+      "urlImage": "img/jujutsu-kaisen.jpg",
+      "category": [
+        "action",
+        "supernatural",
+        "shonen"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "My hero academia",
+      "urlImage": "img/my-hero-academia.jpg",
+      "category": [
+        "action",
+        "fantasy",
+        "shonen"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "naruto",
+      "urlImage": "img/naruto.jpg",
+      "category": [
+        "ninja",
+        "shounen",
+        "action"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "One piece",
+      "urlImage": "img/one-piece.jpg",
+      "category": [
+        "shounen",
+        "pirates",
+        "action",
+        "adventure",
+        "shonen",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Platinum end",
+      "urlImage": "img/platinum-end.jpg",
+      "category": [
+        "fantasy",
+        "drama"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "The ancient magus bride",
+      "urlImage": "img/the-ancient-magus-bride.jpg",
+      "category": [
+        "fantasy",
+        "romance",
+        "shounen",
+        "shoujo",
+        "deutsche synchro",
+        "adventure",
+        "supernatural",
+        "drama"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Tokyo revengers",
+      "urlImage": "img/tokyo-revengers.jpg",
+      "category": [
+        "drama",
+        "action",
+        "shounen"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Sword art online",
+      "urlImage": "img/sword-art-online.jpg",
+      "category": [
+        "drama",
+        "action",
+        "shounen"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Takt op destiny",
+      "urlImage": "img/takt-opdestiny.jpg",
+      "category": [
+        "música",
+        "ciencia",
+        "ficción",
+        "acción",
+        "futurista",
+        "invasores",
+        "music",
+        "action",
+        "madhouse"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Fullmetal alchemist brotherhood",
+      "urlImage": "img/fullmetal-alchemist-brotherhood.jpg",
+      "category": [
+        "action",
+        "adventure",
+        "fantasy",
+        "drama",
+        "shonen",
+        "thriller",
+        "hiromu arakawa",
+        "manga",
+        "magic"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "The god of high school",
+      "urlImage": "img/the-god-of-high-school.jpg",
+      "category": [
+        "action",
+        "shonen"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Erased",
+      "urlImage": "img/erased.jpg",
+      "category": [
+        "drama",
+        " mystery"
+      ]
+    }
+  ]
+}
