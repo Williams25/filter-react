@@ -1,0 +1,11 @@
+.filter-container button {
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+  min-width: 5rem;
+  padding: 0.5rem 1rem;
+}
+
+button.active {
+  background-color: rgba(65, 98, 168);
+  color: #fafafa;
+}
