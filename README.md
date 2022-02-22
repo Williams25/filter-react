@@ -1,4 +1,4 @@
-# Dowhile front-end
+# Filter-react
 
 ## 🎯 Tecnologias
 
@@ -6,6 +6,7 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [Framer-motion](https://www.framer.com/motion/)
 - [Axios](https://axios-http.com/)
+- [Json-server](https://github.com/typicode/json-server/)
 
 ## ✋🏻 Pré-requisitos
 
