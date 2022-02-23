@@ -23,4 +23,4 @@
 - Entre na pasta do projeto `cd filter-react` e logo após `code` .
 - Para instalar as dependências do projeto exucute no terminal `yarn` ou `npm i`
 - Para executar o front-end execute `yarn start` ou `npm start`
-- Para executar o back-end execute `yarn server` ou `npm server`
+- Para executar o back-end execute `yarn server` ou `npm run server`
