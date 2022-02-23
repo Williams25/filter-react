@@ -1,38 +1,8 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-import { useEffect } from "react";
-import { Anime } from "src/types/Anime";
-import { http } from "src/services/axios";
-
+import { useAnime } from "src/hooks/useAnime";
 import "./styles.css";
 
-type FilterProps = {
-  animes: Anime[];
-  setFiltered: React.Dispatch<React.SetStateAction<Anime[]>>;
-  activeGenre: string;
-  setActiveGenre: React.Dispatch<React.SetStateAction<string>>;
-};
-
-export const Filter = ({
-  animes,
-  setFiltered,
-  activeGenre,
-  setActiveGenre,
-}: FilterProps) => {
-  const filterAnimes = async () => {
-    const { data } = await http.get<Anime[]>(
-      `animes/?category_like=${activeGenre}&_sort=name,views&_order=desc`
-    );
-
-    setFiltered(data);
-  };
-
-  useEffect(() => {
-    if (activeGenre === "") {
-      setFiltered(animes);
-    } else {
-      filterAnimes();
-    }
-  }, [activeGenre]);
+export const Filter = () => {
+  const { activeGenre, setActiveGenre } = useAnime();
 
   return (
     <div className="filter-container">
