@@ -2,7 +2,7 @@
   width: 165px;
   height: 320px;
   max-height: 320px;
-  border: 1px solid #000;
+  border: 1px solid #fafafa;
   transition: all 0.5s;
   transition-delay: 0.1s;
   position: relative;
@@ -37,4 +37,5 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  color: #fafafa;
 }
